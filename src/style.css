@@ -15,7 +15,7 @@ body {
 main {
     margin: auto;
     background-color: #F5F5F5;
-    height: 500px;
+    height: 600px;
     max-width: 800px;
     border-radius: 5px;
     padding: 20px;
@@ -93,4 +93,9 @@ main {
     border-radius: 0px;
     cursor: pointer;
     font-size: 1rem;
+}
+
+footer {
+    color: white;
+    font-size: 0.7rem;
 }

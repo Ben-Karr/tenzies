@@ -77,6 +77,7 @@ function App(){
     })
 
     return (
+        <>
         <main>
             {tenzies && <Confetti />}
             <h1 className="title">Tenzies</h1>
@@ -97,6 +98,11 @@ function App(){
                 }
             </div>
         </main>
+        <footer>
+            Check out <a href="https://www.scrimba.com/learn/learnreact">this</a> course on how to build this project and more.
+        </footer>
+        </>
+
     )
 }
 
