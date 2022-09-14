@@ -99,7 +99,7 @@ function App(){
             </div>
         </main>
         <footer>
-            Check out <a href="https://www.scrimba.com/learn/learnreact">this</a> course on how to build this project and more.
+            Check out <a href="https://www.scrimba.com/learn/learnreact">this</a> course to learn how to build this project and more.
         </footer>
         </>
 
